@@ -1,0 +1,128 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+
+body{
+	background-color: #f2f2f2;
+}
+
+
+
+.cabecera{
+	background-color: #E63C2F;
+	width:100%;
+}
+
+.cabecera img{
+width: 20%;
+margin: 10px 0 10px 0; 
+float: center;
+}
+
+.cabecera a {
+font-family: arial;
+color: white;
+font-size: 18px;
+}
+
+.nav a:hover {
+font-family: arial;
+color: black;
+}
+
+.dropdown-menu a{
+color: black;
+
+}
+/**********************************/
+
+#present h2, #present h3{
+	text-align: justify;
+}
+
+#present h2{
+	font-size: 20px;
+	font-family: Arial black;
+	text-align: center;
+}
+
+#present h3{
+	font-size: 20px;
+	font-family: Arial;
+}
+
+#present{
+margin-right: 10%;
+margin-left: 10%;
+margin-bottom: 40px;
+margin-top: 40px;
+}
+
+/**************************************/
+#cuerpo{
+	background-color: white;
+	
+}
+/**************************************/
+#que{
+	background-color:#1E6191;
+	margin: 0px;
+	padding: 20px;	
+}
+
+/****************************************/
+#acomp p{
+	font-size:15px;
+	text-align: justify;
+}
+
+#acomp {
+margin-right: 10%;
+margin-left: 10%;
+margin-bottom: 40px;
+margin-top: 40px;
+}
+
+#acomp article{
+	font-family: Arial;
+	text-align: center;
+}
+
+
+/**************************************/
+footer{
+	width: 100%;
+	background-color: #262626;
+	font-family: Arial;
+	color: white;
+	padding: 0px 0px 5px 0px;
+}
+
+footer h2{
+	font-size: 25px;
+	font-family: Arial;
+}
+
+footer p{
+	font-size: 15px;
+}
+
+
+/**************************************/
+#carrusel{
+    width: 50%;
+    display: inline-block;
+	margin-right: 25%;
+	margin-left: 25%;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+
+.carousel-item img{
+width: auto;
+height: auto;
+
+}
+
+
