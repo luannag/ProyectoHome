@@ -37,19 +37,22 @@ color: black;
 }
 /**********************************/
 
-#present h2, #present h3{
+#present h2{
 	text-align: justify;
+}
+
+#present p{
+	text-align: justify;
+}
+
+#present article{
+	font-family: Arial;
 }
 
 #present h2{
 	font-size: 20px;
 	font-family: Arial black;
 	text-align: center;
-}
-
-#present h3{
-	font-size: 20px;
-	font-family: Arial;
 }
 
 #present{
@@ -73,7 +76,6 @@ margin-top: 40px;
 
 /****************************************/
 #acomp p{
-	font-size:15px;
 	text-align: justify;
 }
 
